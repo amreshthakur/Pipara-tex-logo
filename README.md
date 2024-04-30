@@ -1,0 +1,1 @@
+# Pipara-tex-logo
